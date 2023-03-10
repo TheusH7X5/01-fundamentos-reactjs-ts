@@ -17,7 +17,7 @@ export const Sidebar = () => {
           alt="profile image"
         />
         <strong>Matheus Borges</strong>
-        <span>Web Developer</span>
+        <span>Web Full Stack Developer</span>
       </div>
 
       <footer>
